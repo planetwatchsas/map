@@ -7,4 +7,4 @@ If you want try to find your geohash code you can use this simple and fast conve
 You can also find library to convert from geohash to latitude/longitude and from latitude/longitude to geohash here:<br><br>
 <b>JS</b>: https://www.npmjs.com/package/latlon-geohash<br>
 <b>Python</b>: https://pypi.org/project/pygeohash/<br>
-<b>PHP<b>: https://github.com/skthon/geohash
+<b>PHP</b>: https://github.com/skthon/geohash
